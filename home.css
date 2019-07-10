@@ -1,0 +1,33 @@
+#iamjay {
+  width: 100px;
+}
+
+#duck {
+  width: 200px;
+}
+
+#grey {
+  width: 150px;
+}
+
+#mvd {
+  width: 150px;
+}
+
+#leaf {
+  width: 100px;
+  height: 100px;
+}
+
+.blue_font {
+  color:blue;
+}
+
+.red_font{
+  color: red;
+}
+
+
+p {
+  font-family: 'Noto Sans TC', sans-serif;
+}
